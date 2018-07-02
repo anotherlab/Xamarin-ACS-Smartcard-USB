@@ -33,7 +33,7 @@ mReceiver = new MyBroadcastReceiver();
 RegisterReceiver(mReceiver, filter);
 ```
 
-**4.** Refer to [MainActivity.cs]() in the example app to see how to connect to a ACS RFID reader and read data from it.
+**4.** Refer to [MainActivity.cs](https://github.com/anotherlab/Xamarin-ACS-Smartcard-USB/blob/master/acs.Demo/MainActivity.cs) in the example app to see how to connect to a ACS RFID reader and read data from it.
 
 ## Compatible Devices
 
